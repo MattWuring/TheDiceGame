@@ -272,8 +272,8 @@ namespace Game
                     Console.WriteLine();
                     Console.WriteLine("The score right now is:");
                     Console.WriteLine();
-                    Console.WriteLine(namep1 + " with" + p1points + " right now!");
-                    Console.WriteLine(namep2 + " with" + p2points + " right now!");
+                    Console.WriteLine(namep1 + " with " + p1points + " right now!");
+                    Console.WriteLine(namep2 + " with " + p2points + " right now!");
                 }
 
                 if (AOP == "3")
@@ -281,9 +281,9 @@ namespace Game
                     Console.WriteLine();
                     Console.WriteLine("The score right now is:");
                     Console.WriteLine();
-                    Console.WriteLine(namep1 + " with" + p1points + " right now!");
-                    Console.WriteLine(namep2 + " with" + p2points + " right now!");
-                    Console.WriteLine(namep3 + " with" + p3points + " right now!");
+                    Console.WriteLine(namep1 + " with " + p1points + " right now!");
+                    Console.WriteLine(namep2 + " with " + p2points + " right now!");
+                    Console.WriteLine(namep3 + " with " + p3points + " right now!");
                 }
 
                 if(AOP == "4")
@@ -291,10 +291,10 @@ namespace Game
                     Console.WriteLine();
                     Console.WriteLine("The score right now is:");
                     Console.WriteLine();
-                    Console.WriteLine(namep1 + " with" + p1points + " right now!");
-                    Console.WriteLine(namep2 + " with" + p2points + " right now!");
-                    Console.WriteLine(namep3 + " with" + p3points + " right now!");
-                    Console.WriteLine(namep4 + " with" + p4points + " right now!");
+                    Console.WriteLine(namep1 + " with " + p1points + " right now!");
+                    Console.WriteLine(namep2 + " with " + p2points + " right now!");
+                    Console.WriteLine(namep3 + " with " + p3points + " right now!");
+                    Console.WriteLine(namep4 + " with " + p4points + " right now!");
                 }
             }
 
